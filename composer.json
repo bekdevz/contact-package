@@ -1,0 +1,19 @@
+{
+    "name": "bekadmin/contact",
+    "description": "bu pakage sizga contact pageni tayyor qililb beradi. siz uchun tayyor shablon",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Bekadmin\\Contact\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Najmiddin",
+            "email": "129720773+bekdevz@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
